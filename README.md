@@ -10,7 +10,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - [Author](#author)
 
 ### Screenshot
-
+![Solution]https://github.com/MaksRG/news_layout/blob/main/solution.png
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
